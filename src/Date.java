@@ -133,15 +133,19 @@ public class Date {
     }
 
     public void display(){
+
         System.out.println("DATE"+day+"Month"+month +"Year"+year);
     }
     public int getDay(){
+
         return day;
     }
     public int getMonth(){
+
         return month;
     }
     public int getYear() {
+
         return year;
     }
 
